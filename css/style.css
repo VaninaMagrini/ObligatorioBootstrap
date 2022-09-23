@@ -1,0 +1,20 @@
+*
+{
+  margin: 0px;  
+  padding: 0px;
+}
+
+.card-group
+{
+margin: 5px;
+}
+.card-img-top
+{
+ width: 500px; 
+ height: 250px; 
+}
+
+#nunca
+{
+color: gray;
+}
